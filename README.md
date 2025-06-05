@@ -70,7 +70,7 @@ POSTMAN GET REQUEST
 http://localhost:3000/api/v1/scrape/all
 
 ## 7. Project structure
-.
+<pre><code>
 ├── app.js
 ├── server.js
 ├── package.json
@@ -85,6 +85,8 @@ http://localhost:3000/api/v1/scrape/all
 ├── controllers/
 │   ├── scraper.js
 │   └── summarize.js
+</code>
+</pre>
 
 ## 8. Example workflow
 Run MongoDB locally.
